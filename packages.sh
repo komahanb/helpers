@@ -4,6 +4,7 @@ sudo apt install xxdiff
 sudo apt install meld
 sudo apt install libfreetype6-dev
 sudo apt install freecad
+sudo apt install xpad
 
 # Third party
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 0DF731E45CE24F27EEEB1450EFDC8610341D9410
