@@ -6,7 +6,7 @@ mkdir build
 cd build/
 cmake -DCMAKE_INSTALL_PREFIX=$HOME/install/gmsh/3.0.6 ..
 make -j 8
-make clean
+#make clean
 make install
 
 # Post installation (add this to .bashrc)

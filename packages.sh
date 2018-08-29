@@ -5,6 +5,7 @@ sudo apt install meld
 sudo apt install libfreetype6-dev
 sudo apt install freecad
 sudo apt install xpad
+sudo apt install swig
 
 # Third party
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 0DF731E45CE24F27EEEB1450EFDC8610341D9410
