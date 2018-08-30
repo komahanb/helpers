@@ -13,7 +13,8 @@ git clone https://github.com/su2code/TestCases.git
 cd su2
 cp -R ../TestCases/* ./TestCases/
 
-export SU2_RUN="/home/kboopathy3/git/su2/bin"
-export SU2_HOME="/home/kboopathy3/git/su2"
+# Put this to bashrc
+export SU2_RUN=$HOME/git/su2/bin
+export SU2_HOME=$HOME/git/su2
 export PATH=$PATH:$SU2_RUN
 export PYTHONPATH=$PYTHONPATH:$SU2_RUN
