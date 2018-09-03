@@ -16,3 +16,8 @@ sudo apt install spotify-client
 # Mendeley
 wget https://www.mendeley.com/repositories/ubuntu/stable/amd64/mendeleydesktop-latest
 sudo dpkg -i mendeleydesktop-latest
+
+# Everdo
+wget http://release.everdo.net/1.1.8/everdo_1.1.8_amd64.deb
+sudo dpkg -i everdo_1.1.8_amd64.deb
+sudo apt install everdo_1.1.8_amd64 -f
